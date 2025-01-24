@@ -1,4 +1,4 @@
-# 💫 About Me:
+## Hi, I'm Max 👋
 🔭 I’m currently working on a Medical Windows App for an NGO in Myanmar<br>🌱 I’m currently learning about AI & ML<br>💬 Ask me about DSA
 
 
