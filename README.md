@@ -19,7 +19,7 @@ I'm a first-year Math student at Waterloo, interested in AI & ML<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Languages" style="height: 200px;"/>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=maxtmiller&icon=0&color=11)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=maxtmiller&icon=0&color=11)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=maxtmiller)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
