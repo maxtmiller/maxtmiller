@@ -20,7 +20,7 @@ I'm a first-year Math student at Waterloo, interested in AI & ML<br>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=maxtmiller&icon=0&color=11)](https://visitcount.itsvg.in)
-![Visitor Count](https://profile-counter.glitch.me/maxtmiller/count.svg)
+![](https://komarev.com/ghpvc/?username=maxtmiller)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
