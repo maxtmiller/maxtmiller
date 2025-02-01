@@ -14,13 +14,13 @@ I'm a first-year Math student at Waterloo, interested in AI & ML<br>
 
 
 # 📊 **GitHub Stats:**
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Stats" style="height: 200px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Languages" style="height: 200px;"/>
 </div>
 
-![](https://visitcount.itsvg.in/api?id=maxtmiller&icon=0&color=11)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=maxtmiller)
+
+![](https://komarev.com/ghpvc/?username=maxtmiller&color=blueviolet&abbreviated=true)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
