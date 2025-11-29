@@ -13,11 +13,5 @@ I'm a second-year Math student at the University of Waterloo, interested in AI &
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,electron,mongodb&perline=5" alt="" style="width: 50%;"/>
 </div>
 
-
+### ____________________________________________________________________________________________
 ![](https://komarev.com/ghpvc/?username=maxtmiller&color=blueviolet&abbreviated=true)
-
-![](https://github-readme-stats.vercel.app/api?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtmiller&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=maxtmiller&theme=radical&hide_border=false) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
