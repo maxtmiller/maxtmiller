@@ -13,5 +13,5 @@ I'm a second-year Math student at the University of Waterloo, interested in AI &
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,electron,mongodb&perline=5" alt="" style="width: 50%;"/>
 </div>
 
-### ________________________________________________________________________________
+### _____________________________________________________________________________________
 ![](https://komarev.com/ghpvc/?username=maxtmiller&color=blueviolet&abbreviated=true)
